@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mobil">
+        <item>Honda</item>
+        <item>Suzuki</item>
+        <item>Yamaha</item>
+        <item>Kawasaki</item>
+    </string-array>
+</resources>
