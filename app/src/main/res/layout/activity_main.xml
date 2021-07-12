@@ -133,8 +133,8 @@
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spinnerMobil"
-            android:entries="@array/mobil"/>
+            android:id="@+id/spinnerMotor"
+            android:entries="@array/motor"/>
 
         <TextView
             android:layout_width="wrap_content"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="mobil">
+    <string-array name="motor">
         <item>Honda</item>
         <item>Suzuki</item>
         <item>Yamaha</item>
